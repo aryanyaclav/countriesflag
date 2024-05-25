@@ -1,0 +1,18 @@
+.card{
+    border: 1px solid #ccc;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height: 180px;
+    gap: 10px;
+    border-radius: 6px;
+    width: 180px;
+}
+
+img{
+    height: 80px;
+    width: 75%;
+    margin-top: 20px;
+}
